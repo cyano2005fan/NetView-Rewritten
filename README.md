@@ -26,6 +26,6 @@ that's all folks
 after db connection needs appears the index
 <p align="left">
     <picture>
-        <img src="https://github.com/cbneo/NetView/blob/main/screenshots/idk.jpg" alt="YuoToob">
+        <img src="https://github.com/cbneo/NetView/blob/main/screenshots/idk.png" alt="YuoToob">
     </picture>
 </p>
